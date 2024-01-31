@@ -1,3 +1,3 @@
 !bartend to initiate
 
-this bot was a personal project and was made to be implemented in a personal server
+this bot was a personal project, I made it to use on a server with my friends.
